@@ -1,0 +1,26 @@
+INDEX VERSION 1.132+C:\Users\Vitor Hugo\Documents\junit-java-alura\.metadata\.plugins\org.eclipse.jdt.core
+1560606656.index
+257166210.index
+2693985947.index
+3841185164.index
+613357533.index
+2045788196.index
+2852917540.index
+3520266746.index
+2166180935.index
+3959137331.index
+335155126.index
+935030767.index
+3083369650.index
+2042075699.index
+2814546922.index
+2611418763.index
+482243156.index
+3642665165.index
+2489372279.index
+3386124647.index
+3657260367.index
+1756130373.index
+3786115994.index
+1865797976.index
+3135387846.index

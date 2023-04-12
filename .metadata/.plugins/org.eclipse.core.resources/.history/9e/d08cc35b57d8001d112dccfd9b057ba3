@@ -1,0 +1,12 @@
+package br.com.alura.tdd.modelo;
+
+import java.math.BigDecimal;
+
+public enum Desempenho {
+	A_DESEJAR, 
+	BOM, 
+	OTIMO;
+	
+	public abstract BigDecimal percentualReajuste();
+
+}
